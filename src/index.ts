@@ -1,10 +1,11 @@
+//++++++usar para HTML ++++++
 let nombreAlumno = document.getElementById("nombreAlumno");
 let notaPractica = document.getElementById("notaPractica");
 let notaProblemas = document.getElementById("notaProblemas");
 let notaTeorica = document.getElementById("notaTeorica");
 let btnCalcular = document.getElementById("btnCalcular");
 // ++++++++++ usar para consola +++++
-let nota1: number = 0;
+//let notaPractica: number = 0;
 //let notaProblemas: number = 10;
 //let notaTeorica: number = 10;
 
